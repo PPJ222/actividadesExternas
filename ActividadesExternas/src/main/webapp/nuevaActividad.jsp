@@ -4,14 +4,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Permisos fuera del aula</title>
 </head>
 <body>
-<div class="form-check">
-  <input class="form-check-input" type="checkbox" value="" id="defaultCheck1">
-  <label class="form-check-label" for="defaultCheck1">
-    Default checkbox
+<div class="Check">
+  <input class="form-check-input" type="checkbox" value="" id="check2">
+  <label class="form-check-label" for="check1">
+	Checkbox
   </label>
   </div>
+  <div class="Check">
+  <input class="form-check-input" type="checkbox" value="" id="check2" disabled>
+  <label class="form-check-label" for="check2">
+    Checkbox2
+  </label>
+</div>
 </body>
 </html>
