@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Permisos fuera del aula</title>
+<title>Permisos fuera del aula   </title>
 </head>
 <body>
 <div class="Check">
