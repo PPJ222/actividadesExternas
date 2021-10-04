@@ -17,7 +17,7 @@
   <input class="form-check-input" type="checkbox" value="" id="check2" disabled>
   <label class="form-check-label" for="check2">
     Checkbox2
-  </label>
+  </label> 
 </div>
 </body>
 </html>
